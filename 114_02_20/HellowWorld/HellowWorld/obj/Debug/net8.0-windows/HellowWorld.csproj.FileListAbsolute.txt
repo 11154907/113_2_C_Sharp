@@ -1,0 +1,17 @@
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\bin\Debug\net8.0-windows\HellowWorld.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\bin\Debug\net8.0-windows\HellowWorld.deps.json
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\bin\Debug\net8.0-windows\HellowWorld.runtimeconfig.json
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\bin\Debug\net8.0-windows\HellowWorld.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\bin\Debug\net8.0-windows\HellowWorld.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\obj\Debug\net8.0-windows\HellowWorld.Form1.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\obj\Debug\net8.0-windows\HellowWorld.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\obj\Debug\net8.0-windows\HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\obj\Debug\net8.0-windows\HellowWorld.AssemblyInfoInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\obj\Debug\net8.0-windows\HellowWorld.AssemblyInfo.cs
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\obj\Debug\net8.0-windows\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\obj\Debug\net8.0-windows\HellowWorld.sourcelink.json
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\obj\Debug\net8.0-windows\HellowWorld.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\obj\Debug\net8.0-windows\refint\HellowWorld.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\obj\Debug\net8.0-windows\HellowWorld.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\obj\Debug\net8.0-windows\HellowWorld.genruntimeconfig.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114_02_20\HellowWorld\HellowWorld\obj\Debug\net8.0-windows\ref\HellowWorld.dll
