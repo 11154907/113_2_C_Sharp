@@ -19,13 +19,21 @@ namespace Coin_Toss
 
         private void tossButton_Click(object sender, EventArgs e)
         {
-           
+            int sideUp;
+
+            Random random = new Random();
+            sideUp = random.Next(2);
         }
 
         private void exitButton_Click(object sender, EventArgs e)
         {
             // Close the form.
             this.Close();
+        }
+
+        private void headsPictureBox_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -41,9 +41,9 @@
             // tailsPictureBox
             // 
             this.tailsPictureBox.Image = global::Coin_Toss.Properties.Resources.Tails1;
-            this.tailsPictureBox.Location = new System.Drawing.Point(33, 12);
+            this.tailsPictureBox.Location = new System.Drawing.Point(33, 11);
             this.tailsPictureBox.Name = "tailsPictureBox";
-            this.tailsPictureBox.Size = new System.Drawing.Size(170, 170);
+            this.tailsPictureBox.Size = new System.Drawing.Size(170, 157);
             this.tailsPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.tailsPictureBox.TabIndex = 1;
             this.tailsPictureBox.TabStop = false;
@@ -52,18 +52,19 @@
             // headsPictureBox
             // 
             this.headsPictureBox.Image = global::Coin_Toss.Properties.Resources.Heads1;
-            this.headsPictureBox.Location = new System.Drawing.Point(33, 12);
+            this.headsPictureBox.Location = new System.Drawing.Point(33, 11);
             this.headsPictureBox.Name = "headsPictureBox";
-            this.headsPictureBox.Size = new System.Drawing.Size(170, 170);
+            this.headsPictureBox.Size = new System.Drawing.Size(170, 157);
             this.headsPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.headsPictureBox.TabIndex = 0;
             this.headsPictureBox.TabStop = false;
+            this.headsPictureBox.Click += new System.EventHandler(this.headsPictureBox_Click);
             // 
             // tossButton
             // 
-            this.tossButton.Location = new System.Drawing.Point(40, 194);
+            this.tossButton.Location = new System.Drawing.Point(40, 179);
             this.tossButton.Name = "tossButton";
-            this.tossButton.Size = new System.Drawing.Size(75, 23);
+            this.tossButton.Size = new System.Drawing.Size(75, 21);
             this.tossButton.TabIndex = 2;
             this.tossButton.Text = "Toss";
             this.tossButton.UseVisualStyleBackColor = true;
@@ -71,9 +72,9 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(121, 194);
+            this.exitButton.Location = new System.Drawing.Point(121, 179);
             this.exitButton.Name = "exitButton";
-            this.exitButton.Size = new System.Drawing.Size(75, 23);
+            this.exitButton.Size = new System.Drawing.Size(75, 21);
             this.exitButton.TabIndex = 3;
             this.exitButton.Text = "Exit";
             this.exitButton.UseVisualStyleBackColor = true;
@@ -81,9 +82,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(237, 229);
+            this.ClientSize = new System.Drawing.Size(237, 211);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.tossButton);
             this.Controls.Add(this.headsPictureBox);
