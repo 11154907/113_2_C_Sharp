@@ -31,3 +31,12 @@ D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Co
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Form1.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Properties.Resources.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csproj.GenerateResource.Cache
+C:\Users\w401\Desktop\113_2_C_Sharp\113_2_C_Sharp_Tutorial-main\114_02_20\Tutorial 5-8\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\113_2_C_Sharp_Tutorial-main\114_02_20\Tutorial 5-8\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\113_2_C_Sharp_Tutorial-main\114_02_20\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csproj.AssemblyReference.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\113_2_C_Sharp_Tutorial-main\114_02_20\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Form1.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\113_2_C_Sharp_Tutorial-main\114_02_20\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Properties.Resources.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\113_2_C_Sharp_Tutorial-main\114_02_20\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\113_2_C_Sharp_Tutorial-main\114_02_20\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\113_2_C_Sharp_Tutorial-main\114_02_20\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\113_2_C_Sharp_Tutorial-main\114_02_20\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.pdb
