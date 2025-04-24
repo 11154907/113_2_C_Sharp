@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{674182F8-9500-4070-A79A-B5B086289C03}|NumberFrequency\\NumberFrequency.csproj|solutionrelative:numberfrequency\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{674182F8-9500-4070-A79A-B5B086289C03}|NumberFrequency\\NumberFrequency.csproj|c:\\users\\w401\\desktop\\113_2_c_sharp\\2025_03_27\\numberfrequency\\numberfrequency\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{674182F8-9500-4070-A79A-B5B086289C03}|NumberFrequency\\NumberFrequency.csproj|C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\2025_03_27\\NumberFrequency\\numberfrequency\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{674182F8-9500-4070-A79A-B5B086289C03}|NumberFrequency\\NumberFrequency.csproj|solutionrelative:numberfrequency\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "NumberFrequency\\Form1.cs",
               "ToolTip": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\2025_03_27\\NumberFrequency\\NumberFrequency\\Form1.cs",
               "RelativeToolTip": "NumberFrequency\\Form1.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwCcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T04:49:26.58Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\2025_03_27\\NumberFrequency\\NumberFrequency\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "NumberFrequency\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T04:39:29.684Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "WhenOpened": "2025-03-27T04:39:29.684Z"
             }
           ]
         }
